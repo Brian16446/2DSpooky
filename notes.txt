@@ -1,0 +1,20 @@
+
+2d side scrolling:
+
+Escape the planet.
+
+Infested zombies/bats/animals and shit.
+Have to get off the planet before death.
+
+
+Explore planet to harvest resources (trees etc), 
+discover ruins to collect blueprints/schematics to create parts/weapon upgrades
+Kill enemies for xp and fuel to run generator
+Protect enemies from the generator so they don't destroy it
+
+
+
+testing
+
+
+
